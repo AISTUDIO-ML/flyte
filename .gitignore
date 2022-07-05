@@ -2,7 +2,6 @@
 _build/
 _bin/
 build/
-.vscode/
 *.swp
 *.swo
 .DS_Store
@@ -32,3 +31,7 @@ dist
 *.db
 flyte
 vendor/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
